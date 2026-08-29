@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S.+Abinaya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Full+Stack+Developer+%7C+Django+%26+React+%7C+AI+Integration&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S.+Abinaya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Full+Stack+Developer+%7C+Django%2C+React+and+AI+Integration&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/Abi-10-04">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;Django+%7C+React.js+%7C+REST+APIs;AI+%2F+LLM+Integration+Enthusiast;Turning+Ideas+Into+Working+Apps" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" width="190" src="./profile-photo.jpeg" alt="S. Abinaya" style="border-radius:12px;"/>
+<img align="right" width="190" src="./profile-photo.jpg" alt="S. Abinaya" style="border-radius:12px;"/>
 
 ```python
 class Abinaya:
