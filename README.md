@@ -14,7 +14,7 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" width="190" src="./profile-photo.jpg" alt="S. Abinaya" style="border-radius:12px;"/>
+<img align="right" width="190" src="./profile-photo.jpeg" alt="S. Abinaya" style="border-radius:12px;"/>
 
 ```python
 class Abinaya:
