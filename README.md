@@ -79,7 +79,7 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/Abi-10-04">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abi-10-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
@@ -88,7 +88,7 @@ print(me.motto())
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-10-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -96,7 +96,7 @@ print(me.motto())
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abi-10-04&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
@@ -106,7 +106,7 @@ print(me.motto())
 
 <img src="https://github-profile-trophy.vercel.app/?username=Abi-10-04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
-</div>
+</div> -->
 
 <br/>
 
