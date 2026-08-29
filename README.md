@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S.+Abinaya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Full+Stack+Developer+%7C+Django%2C+React+and+AI+Integration&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=S.+Abinaya&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Python+Full+Stack+Developer+%7C+Django,+React+and+AI+Integration&descAlignY=58&descSize=18&descColor=f5f5f5" width="100%"/>
 
 <a href="https://github.com/Abi-10-04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;Django+%7C+React.js+%7C+REST+APIs;AI+%2F+LLM+Integration+Enthusiast;Turning+Ideas+Into+Working+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&background=0D1117&center=true&vCenter=true&width=800&height=70&lines=Python+Full+Stack+Developer;Django+%7C+React.js+%7C+REST+APIs;AI+%2F+LLM+Integration+Enthusiast;Turning+Ideas+Into+Working+Apps" alt="Typing SVG" style="border-radius:10px;" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Abi-10-04&style=flat-square&color=70a5fd" alt="profile views"/>
