@@ -14,7 +14,7 @@
 
 ## 🙋‍♀️ About Me
 
-<!-- <img align="right" width="190" src="./profile-photo.jpeg" alt="S. Abinaya" style="border-radius:12px;"/> -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Abinaya:
@@ -22,20 +22,28 @@ class Abinaya:
         self.name = "S. Abinaya"
         self.role = "Python Full Stack Developer"
         self.location = "Coimbatore, Tamil Nadu, India"
-        self.degree = "B.Com — Manonmaniam Sundaranar University"
-        self.stack = ["Python", "Django", "Django REST Framework",
-                      "React.js", "MySQL", "JavaScript"]
-        self.currently_learning = ["Advanced AI / LLM Integration",
-                                    "System Design Fundamentals"]
-        self.fun_fact = "I like taking an idea all the way from a database schema to a working UI."
+        self.education = "B.Com, Manonmaniam Sundaranar University (CGPA: 8.67)"
+        self.stack = [
+            "Python", "JavaScript",
+            "React.js", "HTML5", "CSS3", "Bootstrap 5",
+            "Django", "Django REST Framework",
+            "MySQL", "OpenAI API"
+        ]
+        self.currently_learning = [
+            "Advanced REST API design",
+            "AI / LLM engineering",
+            "Cloud fundamentals"
+        ]
+        self.fun_fact = "I turn resumes into fully working full-stack apps."
 
     def motto(self):
-        return "Build it end-to-end, and make it work."
-
+        return "Ship it end-to-end -- frontend, backend, and the database in between."
 
 me = Abinaya()
 print(me.motto())
 ```
+
+<br clear="right"/>
 
 > 🎓 Fresher / trainee-level developer — completed a Python Full Stack Development
 > Training program at **Login360, Coimbatore**, and have since built two independent,
